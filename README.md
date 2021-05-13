@@ -1,2 +1,2 @@
 # aws-thought
-deep thoiughts with images in was
+deep thoughts with images in aws
